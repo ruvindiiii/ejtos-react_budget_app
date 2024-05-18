@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+
+.currency-select {
+    margin-bottom: 30px;
+    background: yellowgreen;
+    padding: 5px;
+}
+
+.increase-button {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    color: white;
+    background-color: green;
+    font-weight: bold;
+    border: none;
+    font-size: 18px;
+}
+
+.decrease-button {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    color: white;
+    background-color: #dc3545;
+    font-weight: bold;
+    border: none;
+    font-size: 18px;
+}
